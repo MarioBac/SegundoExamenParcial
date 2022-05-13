@@ -9,10 +9,9 @@ namespace SegundoExamenParcial
     {
         public string nombre { get;set;}
 
-        public string genero { get; set; }
 
-        public int Experiencia { get; set; }
+        public int experiencia { get; set; }
 
-        public List <Videojuego> VideojuegoList { get; set; }
+        
     }
 }

@@ -11,5 +11,6 @@ namespace SegundoExamenParcial
 
         public string genero { get; set; }
 
+        public List<Videojuego> Videojuegoo { get; set; }
     }
 }
